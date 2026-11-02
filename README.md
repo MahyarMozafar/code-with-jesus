@@ -12,7 +12,7 @@ This repo has the **code of every lesson**, so you can copy it and run it yourse
 
 ## Follow
 
-- 📷 Instagram: [@code.with.jesus](https://www.instagram.com/code.with.jesus/)
+- 📷 Instagram: [@codewithjesus](https://www.instagram.com/codewithjesus/)
 - 🎵 TikTok: _coming soon_
 - ▶️ YouTube: _coming soon_
 

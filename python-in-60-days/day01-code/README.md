@@ -17,9 +17,9 @@ You should see:
 
 ```text
 +--------------------+
-| code.with.jesus    |
+| Code with Jesus    |
 | Python in 60 Days  |
-| @code.with.jesus   |
+| @codewithjesus     |
 +--------------------+
 ```
 

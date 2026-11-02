@@ -1,6 +1,6 @@
 # my business card
 print("+--------------------+")
-print("| code.with.jesus    |")
+print("| Code with Jesus    |")
 print("| Python in 60 Days  |")
-print("| @code.with.jesus   |")
+print("| @codewithjesus     |")
 print("+--------------------+")
